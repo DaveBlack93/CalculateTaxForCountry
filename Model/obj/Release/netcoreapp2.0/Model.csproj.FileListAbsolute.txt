@@ -1,0 +1,8 @@
+d:\Profiles\dpiatti\Documents\Visual Studio 2017\Projects\TestCalculateTaxNetCoreApp\Model\bin\Release\netcoreapp2.0\Model.deps.json
+d:\Profiles\dpiatti\Documents\Visual Studio 2017\Projects\TestCalculateTaxNetCoreApp\Model\bin\Release\netcoreapp2.0\Model.dll
+d:\Profiles\dpiatti\Documents\Visual Studio 2017\Projects\TestCalculateTaxNetCoreApp\Model\bin\Release\netcoreapp2.0\Model.pdb
+d:\Profiles\dpiatti\Documents\Visual Studio 2017\Projects\TestCalculateTaxNetCoreApp\Model\obj\Release\netcoreapp2.0\Model.csproj.CoreCompileInputs.cache
+d:\Profiles\dpiatti\Documents\Visual Studio 2017\Projects\TestCalculateTaxNetCoreApp\Model\obj\Release\netcoreapp2.0\Model.AssemblyInfoInputs.cache
+d:\Profiles\dpiatti\Documents\Visual Studio 2017\Projects\TestCalculateTaxNetCoreApp\Model\obj\Release\netcoreapp2.0\Model.AssemblyInfo.cs
+d:\Profiles\dpiatti\Documents\Visual Studio 2017\Projects\TestCalculateTaxNetCoreApp\Model\obj\Release\netcoreapp2.0\Model.dll
+d:\Profiles\dpiatti\Documents\Visual Studio 2017\Projects\TestCalculateTaxNetCoreApp\Model\obj\Release\netcoreapp2.0\Model.pdb

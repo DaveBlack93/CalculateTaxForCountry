@@ -1,0 +1,17 @@
+d:\profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\TestCalculateTaxNetCoreApp\bin\Debug\netcoreapp2.0\TestCalculateTaxNetCoreApp.deps.json
+d:\profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\TestCalculateTaxNetCoreApp\bin\Debug\netcoreapp2.0\TestCalculateTaxNetCoreApp.runtimeconfig.json
+d:\profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\TestCalculateTaxNetCoreApp\bin\Debug\netcoreapp2.0\TestCalculateTaxNetCoreApp.runtimeconfig.dev.json
+d:\profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\TestCalculateTaxNetCoreApp\bin\Debug\netcoreapp2.0\TestCalculateTaxNetCoreApp.dll
+d:\profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\TestCalculateTaxNetCoreApp\bin\Debug\netcoreapp2.0\TestCalculateTaxNetCoreApp.pdb
+d:\profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\TestCalculateTaxNetCoreApp\obj\Debug\netcoreapp2.0\TestCalculateTaxNetCoreApp.csprojResolveAssemblyReference.cache
+d:\profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\TestCalculateTaxNetCoreApp\obj\Debug\netcoreapp2.0\TestCalculateTaxNetCoreApp.csproj.CoreCompileInputs.cache
+d:\profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\TestCalculateTaxNetCoreApp\obj\Debug\netcoreapp2.0\TestCalculateTaxNetCoreApp.AssemblyInfoInputs.cache
+d:\profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\TestCalculateTaxNetCoreApp\obj\Debug\netcoreapp2.0\TestCalculateTaxNetCoreApp.AssemblyInfo.cs
+d:\profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\TestCalculateTaxNetCoreApp\obj\Debug\netcoreapp2.0\TestCalculateTaxNetCoreApp.dll
+d:\profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\TestCalculateTaxNetCoreApp\obj\Debug\netcoreapp2.0\TestCalculateTaxNetCoreApp.pdb
+d:\profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\TestCalculateTaxNetCoreApp\bin\Debug\netcoreapp2.0\BusinessLogic.dll
+d:\profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\TestCalculateTaxNetCoreApp\bin\Debug\netcoreapp2.0\BusinessLogic.pdb
+d:\Profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\TestCalculateTaxNetCoreApp\bin\Debug\netcoreapp2.0\Model.dll
+d:\Profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\TestCalculateTaxNetCoreApp\bin\Debug\netcoreapp2.0\Model.pdb
+d:\Profiles\dpiatti\Documents\Visual Studio 2017\Projects\TestCalculateTaxNetCoreApp\TestCalculateTaxNetCoreApp\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+d:\Profiles\dpiatti\Documents\Visual Studio 2017\Projects\TestCalculateTaxNetCoreApp\TestCalculateTaxNetCoreApp\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb

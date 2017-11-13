@@ -1,0 +1,11 @@
+d:\Profiles\dpiatti\Documents\Visual Studio 2017\Projects\TestCalculateTaxNetCoreApp\BusinessLogic\bin\Release\netcoreapp2.0\BusinessLogic.deps.json
+d:\Profiles\dpiatti\Documents\Visual Studio 2017\Projects\TestCalculateTaxNetCoreApp\BusinessLogic\bin\Release\netcoreapp2.0\BusinessLogic.dll
+d:\Profiles\dpiatti\Documents\Visual Studio 2017\Projects\TestCalculateTaxNetCoreApp\BusinessLogic\bin\Release\netcoreapp2.0\BusinessLogic.pdb
+d:\Profiles\dpiatti\Documents\Visual Studio 2017\Projects\TestCalculateTaxNetCoreApp\BusinessLogic\bin\Release\netcoreapp2.0\Model.dll
+d:\Profiles\dpiatti\Documents\Visual Studio 2017\Projects\TestCalculateTaxNetCoreApp\BusinessLogic\bin\Release\netcoreapp2.0\Model.pdb
+d:\Profiles\dpiatti\Documents\Visual Studio 2017\Projects\TestCalculateTaxNetCoreApp\BusinessLogic\obj\Release\netcoreapp2.0\BusinessLogic.csprojResolveAssemblyReference.cache
+d:\Profiles\dpiatti\Documents\Visual Studio 2017\Projects\TestCalculateTaxNetCoreApp\BusinessLogic\obj\Release\netcoreapp2.0\BusinessLogic.csproj.CoreCompileInputs.cache
+d:\Profiles\dpiatti\Documents\Visual Studio 2017\Projects\TestCalculateTaxNetCoreApp\BusinessLogic\obj\Release\netcoreapp2.0\BusinessLogic.AssemblyInfoInputs.cache
+d:\Profiles\dpiatti\Documents\Visual Studio 2017\Projects\TestCalculateTaxNetCoreApp\BusinessLogic\obj\Release\netcoreapp2.0\BusinessLogic.AssemblyInfo.cs
+d:\Profiles\dpiatti\Documents\Visual Studio 2017\Projects\TestCalculateTaxNetCoreApp\BusinessLogic\obj\Release\netcoreapp2.0\BusinessLogic.dll
+d:\Profiles\dpiatti\Documents\Visual Studio 2017\Projects\TestCalculateTaxNetCoreApp\BusinessLogic\obj\Release\netcoreapp2.0\BusinessLogic.pdb

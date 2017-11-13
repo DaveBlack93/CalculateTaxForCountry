@@ -1,0 +1,10 @@
+D:\Profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\DataAccessLayer\bin\Debug\netcoreapp2.0\osx-x64\DataAccessLayer.deps.json
+D:\Profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\DataAccessLayer\bin\Debug\netcoreapp2.0\osx-x64\DataAccessLayer.dll
+D:\Profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\DataAccessLayer\bin\Debug\netcoreapp2.0\osx-x64\DataAccessLayer.pdb
+D:\Profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\DataAccessLayer\bin\Debug\netcoreapp2.0\osx-x64\Model.dll
+D:\Profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\DataAccessLayer\bin\Debug\netcoreapp2.0\osx-x64\Model.pdb
+D:\Profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\DataAccessLayer\obj\Debug\netcoreapp2.0\osx-x64\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\DataAccessLayer\obj\Debug\netcoreapp2.0\osx-x64\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\DataAccessLayer\obj\Debug\netcoreapp2.0\osx-x64\DataAccessLayer.AssemblyInfo.cs
+D:\Profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\DataAccessLayer\obj\Debug\netcoreapp2.0\osx-x64\DataAccessLayer.dll
+D:\Profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\DataAccessLayer\obj\Debug\netcoreapp2.0\osx-x64\DataAccessLayer.pdb
