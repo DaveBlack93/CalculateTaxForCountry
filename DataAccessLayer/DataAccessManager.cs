@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System;
+using Model;
 
 namespace DataAccessLayer
 {
@@ -55,7 +56,7 @@ namespace DataAccessLayer
 
         private void saveToFile(string remunerationDtoToJson)
         {
-            using (StreamWriter file = File.CreateText(@"D:\Temp\file.json"))
+            using (StreamWriter file = File.CreateText(Constants.FILEPATH))
             {
                 file.Write(remunerationDtoToJson);
             }
