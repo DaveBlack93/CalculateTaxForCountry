@@ -1,8 +1,0 @@
-D:\Profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\Model\bin\Debug\netcoreapp2.0\ubuntu.16.04-x64\Model.deps.json
-D:\Profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\Model\bin\Debug\netcoreapp2.0\ubuntu.16.04-x64\Model.dll
-D:\Profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\Model\bin\Debug\netcoreapp2.0\ubuntu.16.04-x64\Model.pdb
-D:\Profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\Model\obj\Debug\netcoreapp2.0\ubuntu.16.04-x64\Model.csproj.CoreCompileInputs.cache
-D:\Profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\Model\obj\Debug\netcoreapp2.0\ubuntu.16.04-x64\Model.AssemblyInfoInputs.cache
-D:\Profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\Model\obj\Debug\netcoreapp2.0\ubuntu.16.04-x64\Model.AssemblyInfo.cs
-D:\Profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\Model\obj\Debug\netcoreapp2.0\ubuntu.16.04-x64\Model.dll
-D:\Profiles\dpiatti\documents\visual studio 2017\Projects\TestCalculateTaxNetCoreApp\Model\obj\Debug\netcoreapp2.0\ubuntu.16.04-x64\Model.pdb
