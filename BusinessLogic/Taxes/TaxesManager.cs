@@ -36,7 +36,7 @@ namespace BusinessLogic.Taxes
         public void ReadTaxesAndRates()
         {
             IList<RemunerationDto> remunerationDto;
-            UserParameter userParameter = new UserParameter();
+            UserParameterDto userParameter = new UserParameterDto();
 
             Console.WriteLine("Inserisci la Citta");
             userParameter.cityName = Console.ReadLine();
@@ -213,7 +213,7 @@ namespace BusinessLogic.Taxes
             return remunerationDto;
         }
 
-        private TaxesToPrint CalculateTaxSalary(RemunerationDto remunerationSelectedCity, UserParameter userParameter)
+        private TaxesToPrint CalculateTaxSalary(RemunerationDto remunerationSelectedCity, UserParameterDto userParameter)
         {
             TaxesToPrint taxesToPrint = new TaxesToPrint();
 
@@ -331,7 +331,7 @@ namespace BusinessLogic.Taxes
             return incomeTaxes;
         }
 
-        private double CalculateGrossAmount(UserParameter userParameter)
+        private double CalculateGrossAmount(UserParameterDto userParameter)
         {
             int workingHour = 0;
             double hourlyCost = 0;
