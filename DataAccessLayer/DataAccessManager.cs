@@ -15,7 +15,7 @@ namespace DataAccessLayer
 
         public void StoreTaxesForCity(string filePath, T _remunerationDto)
         {
-            if (_remunerationDto == null)
+            if (_remunerationDto == null || filePath == "")
                 throw new ArgumentNullException();
 
             IList<T> jsonFile = ReadJson(filePath);
