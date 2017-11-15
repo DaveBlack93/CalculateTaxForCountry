@@ -13,13 +13,13 @@ namespace DataAccessLayer
 
         #region Public Method
 
-        public void StoreTaxesForCity(string filePath, T _remunerationDto)
+        public void StoreTaxesForCity(string filePath, T model)
         {
-            if (_remunerationDto == null || filePath == "")
+            if (model == null || filePath == "")
                 throw new ArgumentNullException();
 
             IList<T> jsonFile = ReadJson(filePath);
-            jsonFile.Add(_remunerationDto);
+            jsonFile.Add(model);
             var remunerationDtoToJson = JsonConvert.SerializeObject(jsonFile);
             saveToFile(remunerationDtoToJson);
         }
